@@ -3,7 +3,14 @@ Se decidió por SQL Server, ya que al ser tecnología de Microsoft,
 tiene una gran compatibilidad con la suite de .NET, Azure, Power BI y otros productos empresariales.
 Es adecuado para aplicaciones de misión crítica que requieren un manejo eficiente de grandes volúmenes de datos y transacciones.
 */
-
+/* se decidio .Net core 9 Con C#
+ C# es un lenguaje de programación potente, fácil de aprender y mantener. 
+ Tiene características modernas como LINQ, async/await, y es ideal para aplicaciones de alto rendimiento.
+ .Net 9 es la version mas resiente, la plataforma ofrece un rendimiento sobresaliente. 
+ Gracias a mejoras en el runtime (CLR), la ejecución de código es más rápida.
+ NET tiene un buen soporte para contenedores Docker, 
+ lo que facilita la creación de aplicaciones que pueden escalarse de manera eficiente en un entorno de producción.
+*/
 
 -- Crear base de datos
 CREATE DATABASE CompanyChargesDB;
